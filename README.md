@@ -2,7 +2,16 @@
 
 ###
 
-<p align="left">Hi I'm Harry.<br>In 2023 I graduated from the University of East Anglia with a first BSc (Hons) degree in Computer Science.</p>
+<p align="left">👋 Hello, I'm Harry, a passionate developer with a penchant for crafting robust and scalable applications.</p>
+<p align="left">🌐My recent projects have used the MERN stack, leveraging React for intuitive user interfaces, Node.js for efficient server-side logic, Express for seamless API development, and MySQL for robust and relational database management, continuing on from the skills I learnt when using this stakc for my degree dissertation.</p>
+
+<p align="left">💾 While my primary database experience lies in MySQL, I'm well-versed in designing and optimizing database schemas to ensure data integrity and efficiency. I believe in the power of relational databases for structuring complex data relationships.</p>
+
+<p align="left">🔧 Additionally, I have a strong foundation in C# programming, allowing me to tackle low-level programming tasks and build efficient algorithms. I enjoy the challenge of optimizing code for performance and ensuring it meets the highest standards.</p>
+
+<p align="left">🎓In 2023 I graduated from the University of East Anglia with a first BSc (Hons) degree in Computer Science.</p>
+
+<p align="left">🚀 Let's collaborate and turn ideas into reality! Feel free to explore my repositories, and don't hesitate to reach out for potential projects, contributions, or discussions on web development, databases, and C# programming.</p>
 
 ###
 
@@ -10,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 Learning TypeScript & AWS<br>🎯 Goals:<br>Deploy my first AWS app<br>Deploy my first TypeScript app</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Currently Learning TypeScript & AWS<br>🎯 Goals:<br>Deploy my first AWS app<br>Deploy my first TypeScript app</p>
 
 ###
 
