@@ -1,5 +1,7 @@
 <h1 align="left"></h1>
 
+<img src="1715158433515.jpeg" style="width:100vw;"/>
+
 ###
 
 <p align="left">👋 Hello, I'm Harry, a passionate developer with a penchant for crafting robust and scalable applications.</p>
