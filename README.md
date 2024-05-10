@@ -13,7 +13,7 @@
 
 <p align="left">🔧 Additionally, I have a strong foundation in C# programming, allowing me to tackle low-level programming tasks and build efficient algorithms. I enjoy the challenge of optimizing code for performance and ensuring it meets the highest standards.</p>
 
-<p align="left">🎓In 2023 I graduated from the University of East Anglia with a first BSc (Hons) degree in Computer Science.</p>
+<p align="left">🎓In 2023 I graduated from the University of East Anglia with a first BSc (Hons) degree in Computer Science. In then spent a year working as an Applications Engineer at Ansible Motion and now I'm currently working as a CyberSecurity Writer for Netify.</p>
 
 <p align="left">🚀 Let's collaborate and turn ideas into reality! Feel free to explore my repositories, and don't hesitate to reach out for potential projects, contributions, or discussions on web development, databases, and C# programming.</p>
 
