@@ -4,7 +4,9 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Harry, a passionate developer with a penchant for crafting robust and scalable applications.</p>
+<p align="left">👋 Hello, I'm Harry, a CyberSecurity Writer for Netify. </p>p>
+
+<p align="left">Having studied Computer Science at the Universite of East Anglia, I'm a passionate developer with a penchant for crafting robust and scalable applications.</p>
 <p align="left">🌐My recent projects have used the MERN stack, leveraging React for intuitive user interfaces, Node.js for efficient server-side logic, Express for seamless API development, and MySQL for robust and relational database management, continuing on from the skills I learnt when using this stakc for my degree dissertation.</p>
 
 <p align="left">💾 While my primary database experience lies in MySQL, I'm well-versed in designing and optimizing database schemas to ensure data integrity and efficiency. I believe in the power of relational databases for structuring complex data relationships.</p>
