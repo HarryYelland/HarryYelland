@@ -5,17 +5,17 @@
 ###
 
 <p align="left">👋 Hello, I'm Harry, a CyberSecurity Writer for Netify. </p>
+<p align="left">🎓In 2023 I graduated from the University of East Anglia with a First class BSc (Hons) degree in Computer Science. In then spent a year working as an Applications Engineer at Ansible Motion and now I'm currently working as a CyberSecurity Writer for Netify.</p>
 
-<p align="left">Having studied Computer Science at the Universite of East Anglia, I'm a passionate developer with a penchant for crafting robust and scalable applications.</p>
-<p align="left">🌐My recent projects have used the MERN stack, leveraging React for intuitive user interfaces, Node.js for efficient server-side logic, Express for seamless API development, and MySQL for robust and relational database management, continuing on from the skills I learnt when using this stakc for my degree dissertation.</p>
+<p align="left">Whilst my current role is focused on cybersecurity, I'm an incredibly passionate developer who likes to work on a range of programming projects.</p>
 
-<p align="left">💾 While my primary database experience lies in MySQL, I'm well-versed in designing and optimizing database schemas to ensure data integrity and efficiency. I believe in the power of relational databases for structuring complex data relationships.</p>
+<p align="left">I am currently developing my skills across all languages, however, my main strengths are with the MERN stack (which I used for my degree dissertation work. Using the MERN stack, I've learnt to leverage React for intuitive user interfaces alongside Node.js for backend work and I'm now trying to translate these skills to other languages. For example, I've began building projects with C for backend servers and python for simple applications/machine learning use cases.</p>
 
-<p align="left">🔧 Additionally, I have a strong foundation in C# programming, allowing me to tackle low-level programming tasks and build efficient algorithms. I enjoy the challenge of optimizing code for performance and ensuring it meets the highest standards.</p>
+<p align="left">When consider databases, I'm well-versed in designing and optimizing database schemas for both MySQL and PostGreSQL, always  with a focus on data integrity and efficiency.</p>
 
-<p align="left">🎓In 2023 I graduated from the University of East Anglia with a first BSc (Hons) degree in Computer Science. In then spent a year working as an Applications Engineer at Ansible Motion and now I'm currently working as a CyberSecurity Writer for Netify.</p>
 
-<p align="left">🚀 Let's collaborate and turn ideas into reality! Feel free to explore my repositories, and don't hesitate to reach out for potential projects, contributions, or discussions on web development, databases, and C# programming.</p>
+
+<p align="left">Let's collaborate and turn ideas into reality! Feel free to explore my repositories, and don't hesitate to reach out for potential projects and contributions.</p>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 Currently Learning TypeScript & AWS<br>🎯 Goals:<br>Deploy my first AWS app<br>Deploy my first TypeScript app</p>
+<p align="left">✨Creating bugs since 2018
 
 ###
 
