@@ -4,24 +4,16 @@
 
 ###
 
-<p align="left">Hello, I'm Harry, a CyberSecurity Writer for Netify. </p>
-<p align="left">🎓In 2023 I graduated from the University of East Anglia with a First class BSc (Hons) degree in Computer Science. I then spent a year working as an Applications Engineer at Ansible Motion and now I'm currently working as a CyberSecurity Writer for Netify.</p>
+# Hi, I'm Harry 👋
 
-<p align="left">Whilst my current role is focused on cybersecurity, I'm an incredibly passionate developer who likes to work on a range of programming projects.</p>
+Cybersecurity Writer by day, home lab tinkerer by night.
 
-###
+## What I'm Up To
 
-<h2 align="left">About me</h2>
+- Building a **home security lab** with enterprise-grade tools
+- Writing about SD-WAN and SASE technologies at Netify
 
-###
-
-
-###
-
-<h2 align="left">Favourite Techstacks</h2>
-
-###
-
+## Programming Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -33,3 +25,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+**Stack**: MySQL, Express.js, React, Node.js  
+I used this stack for my Computer Science dissertation, building a full-stack Inventory Management application with React for frontend and Node.js/Express for backend development.
+
+## My Home Security Project Tech Stack
+
+**SIEM & Monitoring**: Wazuh
+**Network Security**: Pi-hole (DNS filtering), Squid Proxy (SSL inspection), ZeroTier (VPN), Caddy (reverse proxy with SSL/TLS), UFW (firewall)  
+**Intrusion Detection & Prevention**: Fail2Ban,
+**Malware Detection**: ClamAV, YARA rules, C-ICAP (content adaptation)  
+**Vulnerability Scanning**: OpenVAS, Nessus Essentials, Lynis (system auditing)  
+**Platform**: DietPi Linux, Docker containers
+
+## Find Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/harryyelland/)
