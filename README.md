@@ -25,8 +25,8 @@ Cybersecurity Writer by day, home lab tinkerer by night.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-Stack: MySQL, Express.js, React, Node.js  
-I used this stack for my Computer Science dissertation, building a full-stack Inventory Management application with React for frontend and Node.js/Express for backend development.
+<h4>Stack: MySQL, Express.js, React, Node.js</h4>
+<p>I used this stack for my Computer Science dissertation, building a full-stack Inventory Management application with React for frontend and Node.js/Express for backend development.</p>
 
 ## My Home Security Project Tech Stack
 
