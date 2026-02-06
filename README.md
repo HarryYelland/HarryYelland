@@ -40,3 +40,7 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 ## Find Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harryyelland/)
+
+### Places my work has been referenced:
+<a href="https://www.researchgate.net/publication/389961917_Zero_Trust_SD-WAN_Enhancing_Security_and_Efficiency_in_the_Medical_Industry">Venkadesan Perumal (Independent) - ResearchGate</a>
+<a href="https://www.linkedin.com/posts/nickykearns_weve-compared-61-sd-wan-vendors-providers-activity-7329158710440755200-7q0U?utm_source=share&utm_medium=member_desktop&rcm=ACoAADD-IzsBPWfFOA3ZOVewWRlLdfYke8b6Vs8">Turnium Technology Group - LinkedIn</a>
