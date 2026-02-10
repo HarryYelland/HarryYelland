@@ -11,22 +11,9 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 ## What I'm Up To
 
 - Building a **home security lab** with enterprise-grade tools
-- Writing about SD-WAN and SASE technologies at Netify
+- Writing about **SD-WAN and SASE** technologies at **Netify**
+- Voluntarily **managing** the **website content and security** for the KYDS charity.
 
-## Programming Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-<h4>Stack: MySQL, Express.js, React, Node.js</h4>
-<p>I used this stack for my Computer Science dissertation, building a full-stack Inventory Management application with React for frontend and Node.js/Express for backend development.</p>
 
 ## My Home Security Project Tech Stack
 
@@ -52,4 +39,20 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 <br/>
 
 [![View my Credly](https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=200&name=Credly_Logo_Orange_10-Inch.png)](https://www.credly.com/users/harry-yelland/badges#credly)
+
+## Favourite Programming Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+<h4>Stack: MySQL, Express.js, React, Node.js</h4>
+<p>As someone with a CompSci degree, I'm not just limited to CyberSecurity - I used this stack for my Computer Science dissertation, building a full-stack Inventory Management application with React for frontend and Node.js/Express for backend development, graded a first for my work on this.</p>
+
 
