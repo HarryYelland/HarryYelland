@@ -14,6 +14,8 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 - Writing about **SD-WAN and SASE** technologies at **Netify**
 - Voluntarily **managing** the **website content and security** for the KYDS charity.
 
+<br/>
+<img src="/img/projects.png" alt="My Projects" width="30%">
 
 ## My Home Security Project Tech Stack
 
