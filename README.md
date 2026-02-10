@@ -26,21 +26,26 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 **Vulnerability Scanning**: OpenVAS, Nessus Essentials, Lynis (system auditing)  
 **Platform**: DietPi Linux, Docker containers
 
-## Find Me
+<img src="/img/findme.png" alt="Find Me" width="30%">
+
+## Links
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harryyelland/)
-
+- 💼 [Netify](https://insights.netify.co.uk/author/hyelland/)
+- 💼 [Network Union](https://www.networkunion.co.uk/author/hyelland/)
 
 ### Places my work has been referenced:
 <a href="https://www.researchgate.net/publication/389961917_Zero_Trust_SD-WAN_Enhancing_Security_and_Efficiency_in_the_Medical_Industry">Venkadesan Perumal (Independent) - ResearchGate</a> <br/>
 <a href="https://www.linkedin.com/posts/nickykearns_weve-compared-61-sd-wan-vendors-providers-activity-7329158710440755200-7q0U?utm_source=share&utm_medium=member_desktop&rcm=ACoAADD-IzsBPWfFOA3ZOVewWRlLdfYke8b6Vs8">Turnium Technology Group - LinkedIn</a>
 
-<br/>
+<br/><br/>
 
 ### Various Certifications & CyberSecurity Badges that I have achieved:
 <br/>
 
 [![View my Credly](https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=200&name=Credly_Logo_Orange_10-Inch.png)](https://www.credly.com/users/harry-yelland/badges#credly)
+
+<br/><br/>
 
 ## Favourite Programming Tech Stack
 <div align="left">
