@@ -26,7 +26,9 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 **Vulnerability Scanning**: OpenVAS, Nessus Essentials, Lynis (system auditing)  
 **Platform**: DietPi Linux, Docker containers
 
-<img src="/img/findme.png" alt="Find Me" width="30%">
+<br/>
+
+<img src="/img/findme.png" alt="Find Me" width="30%" />
 
 ## Links
 
