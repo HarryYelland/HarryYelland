@@ -45,6 +45,12 @@ My Cybersecurity Homelab Documentation & Testing on a single server utilising op
 <a href="https://app.letsdefend.io/user/harryyelland"><img src="/img/letsdefend.png" alt="Lets Defend" width="30%"><a/>
 
 ## Various Certifications & CyberSecurity Badges that I have achieved:
+
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00629B?style=for-the-badge&logo=isc2&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
+[![Microsoft](https://img.shields.io/badge/Microsoft-Security_Essentials_(LinkedIn_Certification)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/c6adcad6ab94863bd0265909f3c39047c1bd2b5de1ae71c2b7169c5e2b696513?trk=share_certificate)
+[![Cisco Certifications](https://img.shields.io/badge/Cisco-Junior_Analyst_Career_Path-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
+[![Fortinet Training](https://img.shields.io/badge/Fortinet-NSE_1,_2_&_3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
+
 <br/>
 
 [![View my Credly](https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=200&name=Credly_Logo_Orange_10-Inch.png)](https://www.credly.com/users/harry-yelland/badges#credly)
