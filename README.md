@@ -36,9 +36,7 @@ My Cybersecurity Homelab Documentation & Testing on a single server utilising op
 
 <br/>
 
-<img src="/img/findme.png" alt="Find Me" width="30%" />
-
-## Links
+## Places You Can Find Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harryyelland/)
 - 💼 [Netify](https://insights.netify.co.uk/author/hyelland/)
