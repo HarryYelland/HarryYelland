@@ -39,22 +39,23 @@ My Cybersecurity Homelab Documentation & Testing on a single server utilising op
 
 ## Places You Can Find Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harryyelland/)
-- 💼 [Netify](https://insights.netify.co.uk/author/hyelland/)
-- 💼 [Network Union](https://www.networkunion.co.uk/author/hyelland/)
+<a href="https://www.linkedin.com/in/harryyelland/"><img src="/img/linkedin.png" alt="LinkedIn" width="30%"><a/>
+<a href="https://insights.netify.co.uk/author/hyelland/"><img src="/img/netify.png" alt="Netify" width="30%"><a/>
+<a href="https://www.networkunion.co.uk/author/hyelland/"><img src="/img/networkunion.png" alt="Network Union" width="30%"><a/>
+<a href="https://app.letsdefend.io/user/harryyelland"><img src="/img/letsdefend.png" alt="Lets Defend" width="30%"><a/>
 
-### Places my work has been referenced:
-<a href="https://www.researchgate.net/publication/389961917_Zero_Trust_SD-WAN_Enhancing_Security_and_Efficiency_in_the_Medical_Industry">Venkadesan Perumal (Independent) - ResearchGate</a> <br/>
-<a href="https://www.linkedin.com/posts/nickykearns_weve-compared-61-sd-wan-vendors-providers-activity-7329158710440755200-7q0U?utm_source=share&utm_medium=member_desktop&rcm=ACoAADD-IzsBPWfFOA3ZOVewWRlLdfYke8b6Vs8">Turnium Technology Group - LinkedIn</a>
-
-<br/><br/>
-
-### Various Certifications & CyberSecurity Badges that I have achieved:
+## Various Certifications & CyberSecurity Badges that I have achieved:
 <br/>
 
 [![View my Credly](https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=200&name=Credly_Logo_Orange_10-Inch.png)](https://www.credly.com/users/harry-yelland/badges#credly)
 
-<br/><br/>
+<br/>
+
+## Places my work has been referenced:
+<a href="https://www.researchgate.net/publication/389961917_Zero_Trust_SD-WAN_Enhancing_Security_and_Efficiency_in_the_Medical_Industry">Venkadesan Perumal (Independent) - ResearchGate</a> <br/>
+<a href="https://www.linkedin.com/posts/nickykearns_weve-compared-61-sd-wan-vendors-providers-activity-7329158710440755200-7q0U?utm_source=share&utm_medium=member_desktop&rcm=ACoAADD-IzsBPWfFOA3ZOVewWRlLdfYke8b6Vs8">Turnium Technology Group - LinkedIn</a>
+
+<br/>
 
 ## Favourite Programming Tech Stack
 <div align="left">
