@@ -18,13 +18,20 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 <img src="/img/projects.png" alt="My Projects" width="30%">
 
 ## My Home Security Project Tech Stack
+<a href="https://github.com/HarryYelland/Homelab/">View Project<a/>
 
-**SIEM & Monitoring**: Wazuh
-**Network Security**: Pi-hole (DNS filtering), Squid Proxy (SSL inspection), ZeroTier (VPN), Caddy (reverse proxy with SSL/TLS), UFW (firewall)  
-**Intrusion Detection & Prevention**: Fail2Ban,
-**Malware Detection**: ClamAV, YARA rules, C-ICAP (content adaptation)  
-**Vulnerability Scanning**: OpenVAS, Nessus Essentials, Lynis (system auditing)  
-**Platform**: DietPi Linux, Docker containers
+| Layer | Tool | Purpose |
+|-------|------|---------|
+| **SIEM** | Wazuh | Centralised log management, correlation, alerting |
+| **Firewall** | UFW | Network-layer packet filtering |
+| **IPS** | Fail2ban | Adaptive intrusion prevention |
+| **DNS Security** | Pi-hole | Malicious domain blocking, DNS filtering |
+| **Proxy** | Squid | SSL/TLS inspection, web filtering |
+| **Antivirus** | ClamAV + C-ICAP | Inline malware scanning |
+| **Vuln Scanning** | OpenVAS | Network vulnerability assessment |
+| **Hardening** | Lynis | System security auditing |
+| **Platform** | DietPi + Docker | Minimal Linux + container management |
+| **VPN** | ZeroTier | Secure remote access |
 
 <br/>
 
