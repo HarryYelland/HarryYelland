@@ -19,7 +19,7 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 
 
 <br/>
-<a href="https://github.com/HarryYelland?tab=repositories"><img src="/img/projects.png" alt="My Projects" width="30%"></a>
+<a href="https://github.com/HarryYelland?tab=repositories"><img src="/img/projects.png" alt="My Projects" width="27%"></a>
 
 ## My Home Security Project Tech Stack
 My Cybersecurity Homelab Documentation & Testing on a single server utilising open-source tools to emulate basic SOC activities (such as security monitoring, threat detection and incident response).
