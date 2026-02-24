@@ -13,6 +13,10 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 - Building a **home security lab** with enterprise-grade tools
 - Writing about **SD-WAN and SASE** technologies at **Netify**
 - Voluntarily **managing** the **website content and security** for the KYDS charity.
+<br/>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/harryyelland.png" alt="TryHackMe Image Badge" />    <img src="/img/unofficial_letsdefend_banner.png" alt="LetsDefend *Unofficial* Image Badge" width=34% />
+
 
 <br/>
 <a href="https://github.com/HarryYelland?tab=repositories"><img src="/img/projects.png" alt="My Projects" width="30%"></a>
