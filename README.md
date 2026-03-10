@@ -56,7 +56,10 @@ My Cybersecurity Homelab Documentation & Testing on a single server utilising op
 [![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00629B?style=for-the-badge&logo=isc2&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
 [![Microsoft](https://img.shields.io/badge/Microsoft-Security_Essentials_(LinkedIn_Certification)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/c6adcad6ab94863bd0265909f3c39047c1bd2b5de1ae71c2b7169c5e2b696513?trk=share_certificate)
 [![Cisco Certifications](https://img.shields.io/badge/Cisco-Junior_Analyst_Career_Path-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
-[![Fortinet Training](https://img.shields.io/badge/Fortinet-NSE_1,_2_&_3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
+[![FortiGate Operator](https://img.shields.io/badge/Fortinet-FortiGate_7.6_Operator-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
+[![Cato Networks](https://img.shields.io/badge/Cato_Networks-SASE_Expert_%26_Specialist_Badges-00A4EF?style=for-the-badge&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
+[![MITRE ATT&CK](https://img.shields.io/badge/AttackIQ-MITRE_ATT%26CK_Foundations-FF0000?style=for-the-badge&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
+[![TryHackMe SEC0](https://img.shields.io/badge/TryHackMe-Pre_Security_(SEC0)-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/HarryY)
 
 <br/>
 
