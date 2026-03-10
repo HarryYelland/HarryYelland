@@ -12,7 +12,9 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 
 - Building a **home security lab** with enterprise-grade tools
 - Writing about **SD-WAN and SASE** technologies at **Netify**
-- Voluntarily **managing** the **website content and security** for the KYDS charity.
+- Voluntarily **managing** the **website content and security** for the KYDS charity
+- Completing **practical learning** paths on the likes of **TryHackMe** and **LetsDefend**, whilst **building up** practical experience **for BTL1**
+- Taking knowledge-based courses on the likes of **Cisco NetAcad** and **AttackIQ (Mitre-related)**, whilst **building up** general security knowledge **for CompTIA Sec+**
 <br/>
 
 <img src="/img/tryhackme_badge.png" alt="TryHackMe Badge" width=37.5% />    <img src="/img/unofficial_letsdefend_banner.png" alt="LetsDefend *Unofficial* Image Badge" width=40% />
