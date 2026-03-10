@@ -58,8 +58,9 @@ My Cybersecurity Homelab Documentation & Testing on a single server utilising op
 [![Fortinet Training](https://img.shields.io/badge/Fortinet-NSE_1,_2_&_3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
 
 <br/>
-
+**FOR RECRUITERS (Or anyone just generally interested)**: Many of my certifications are viewable on Credly (by Pearson), which showcases the wide variety of courses I have taken. Feel free to click the below Credly logo, which will take you to my personal transcript page, highlighting many of the courses I have completed.
 [![View my Credly](https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=200&name=Credly_Logo_Orange_10-Inch.png)](https://www.credly.com/users/harry-yelland/badges#credly)
+It's worth noting that, as not all course providers are partnered with Credly, some courses I have completed will not be included on there.
 
 <br/>
 
@@ -70,6 +71,8 @@ My Cybersecurity Homelab Documentation & Testing on a single server utilising op
 <br/>
 
 ## Favourite Programming Tech Stack
+<p>As someone with a CompSci degree, I'm not just limited to CyberSecurity and actually started out studying with the intention to go into programming. From time to time I do still do a fair bit of programming and so I wanted to include my favourite programming stack as part of my about me. I used this stack for my Computer Science dissertation, building a full-stack Inventory Management application with React for frontend and Node.js/Express for backend development, with mysql database and was graded a first for my work on this.</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -82,6 +85,6 @@ My Cybersecurity Homelab Documentation & Testing on a single server utilising op
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 <h4>Stack: MySQL, Express.js, React, Node.js</h4>
-<p>As someone with a CompSci degree, I'm not just limited to CyberSecurity - I used this stack for my Computer Science dissertation, building a full-stack Inventory Management application with React for frontend and Node.js/Express for backend development, graded a first for my work on this.</p>
+
 
 
