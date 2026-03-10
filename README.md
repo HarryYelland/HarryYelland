@@ -15,7 +15,7 @@ Cybersecurity Writer by day, home lab tinkerer by night.
 - Voluntarily **managing** the **website content and security** for the KYDS charity.
 <br/>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/harryyelland.png" alt="Your Image Badge" />    <img src="/img/unofficial_letsdefend_banner.png" alt="LetsDefend *Unofficial* Image Badge" width=40% />
+<img src="/img/tryhackme_badge.png" alt="TryHackMe Badge" width=37.5% />    <img src="/img/unofficial_letsdefend_banner.png" alt="LetsDefend *Unofficial* Image Badge" width=40% />
 
 
 <br/>
