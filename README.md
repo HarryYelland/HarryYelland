@@ -58,8 +58,11 @@ My Cybersecurity Homelab Documentation & Testing on a single server utilising op
 [![Fortinet Training](https://img.shields.io/badge/Fortinet-NSE_1,_2_&_3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/users/harry-yelland/badges#credly)
 
 <br/>
+
 **FOR RECRUITERS (Or anyone just generally interested)**: Many of my certifications are viewable on Credly (by Pearson), which showcases the wide variety of courses I have taken. Feel free to click the below Credly logo, which will take you to my personal transcript page, highlighting many of the courses I have completed.
+
 [![View my Credly](https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=200&name=Credly_Logo_Orange_10-Inch.png)](https://www.credly.com/users/harry-yelland/badges#credly)
+
 It's worth noting that, as not all course providers are partnered with Credly, some courses I have completed will not be included on there.
 
 <br/>
