@@ -41,6 +41,8 @@ My Cybersecurity Homelab Documentation & Testing on a single server utilising op
 | **Platform** | DietPi + Docker | Minimal Linux + container management |
 | **VPN** | ZeroTier | Secure remote access |
 
+<img src="./img/homelab_architecture_map.png" alt="Homelab Architecture Map" width=37.5% />
+
 <br/>
 
 ## Places You Can Find Me
