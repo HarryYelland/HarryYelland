@@ -80,12 +80,6 @@ It's worth noting that, as not all course providers are partnered with Credly, s
 
 <br/>
 
-<!-- GitHub Stats & Top Languages Side-by-Side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarryYelland&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryYelland&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
 <!-- Commit Streak Card -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryYelland&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -109,7 +103,7 @@ It's worth noting that, as not all course providers are partnered with Credly, s
 </div>
 <h4>Stack: MySQL, Express.js, React, Node.js</h4>
 
-
+###
 <br/>
 
 Last Updated 06/08/2026
