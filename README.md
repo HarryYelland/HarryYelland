@@ -80,6 +80,7 @@ It's worth noting that, as not all course providers are partnered with Credly, s
 
 <br/>
 
+## My Github Activity
 <!-- Commit Streak Card -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryYelland&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -87,7 +88,7 @@ It's worth noting that, as not all course providers are partnered with Credly, s
 
 <br/>
 
-## Favourite Programming Tech Stack
+### Favourite Programming Tech Stack
 <p>As someone with a CompSci degree, I'm not just limited to CyberSecurity and actually started out studying with the intention to go into programming. From time to time I do still do a fair bit of programming and so I wanted to include my favourite programming stack as part of my about me. I used this stack for my Computer Science dissertation, building a full-stack Inventory Management application with React for frontend and Node.js/Express for backend development, with mysql database and was graded a first for my work on this.</p>
 
 <div align="left">
